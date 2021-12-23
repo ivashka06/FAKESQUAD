@@ -1,0 +1,13 @@
+C:\Users\StudentDev\source\repos\FAKESQUAD\FAKESQUAD\bin\Debug\netcoreapp3.1\FAKESQUAD.exe
+C:\Users\StudentDev\source\repos\FAKESQUAD\FAKESQUAD\bin\Debug\netcoreapp3.1\FAKESQUAD.deps.json
+C:\Users\StudentDev\source\repos\FAKESQUAD\FAKESQUAD\bin\Debug\netcoreapp3.1\FAKESQUAD.runtimeconfig.json
+C:\Users\StudentDev\source\repos\FAKESQUAD\FAKESQUAD\bin\Debug\netcoreapp3.1\FAKESQUAD.runtimeconfig.dev.json
+C:\Users\StudentDev\source\repos\FAKESQUAD\FAKESQUAD\bin\Debug\netcoreapp3.1\FAKESQUAD.dll
+C:\Users\StudentDev\source\repos\FAKESQUAD\FAKESQUAD\bin\Debug\netcoreapp3.1\FAKESQUAD.pdb
+C:\Users\StudentDev\source\repos\FAKESQUAD\FAKESQUAD\obj\Debug\netcoreapp3.1\FAKESQUAD.csprojAssemblyReference.cache
+C:\Users\StudentDev\source\repos\FAKESQUAD\FAKESQUAD\obj\Debug\netcoreapp3.1\FAKESQUAD.AssemblyInfoInputs.cache
+C:\Users\StudentDev\source\repos\FAKESQUAD\FAKESQUAD\obj\Debug\netcoreapp3.1\FAKESQUAD.AssemblyInfo.cs
+C:\Users\StudentDev\source\repos\FAKESQUAD\FAKESQUAD\obj\Debug\netcoreapp3.1\FAKESQUAD.csproj.CoreCompileInputs.cache
+C:\Users\StudentDev\source\repos\FAKESQUAD\FAKESQUAD\obj\Debug\netcoreapp3.1\FAKESQUAD.dll
+C:\Users\StudentDev\source\repos\FAKESQUAD\FAKESQUAD\obj\Debug\netcoreapp3.1\FAKESQUAD.pdb
+C:\Users\StudentDev\source\repos\FAKESQUAD\FAKESQUAD\obj\Debug\netcoreapp3.1\FAKESQUAD.genruntimeconfig.cache
