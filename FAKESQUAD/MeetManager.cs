@@ -7,7 +7,13 @@ namespace FAKESQUAD
 {
     public class MeetManager
     {
-        List<Meet> meets = new List<Meet>();
+        private List<Meet> meets = new List<Meet>();
+
+        public List<Meet> GetAll()
+        {
+            return meets;
+        }
+
         public void AddNewMeet(string name, DateTime meetTime)
         {
             Meet newMeet = new Meet() { Name = name, CreateTime = DateTime.Now, MeetTime = meetTime};
